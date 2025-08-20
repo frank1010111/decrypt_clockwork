@@ -5,7 +5,7 @@ For the second time this campaign, we have been beset by an encrypted message. T
 ## Startup
 
 ```
-git clone github.com/frank1010111
+git clone https://github.com/frank1010111/decrypt_clockwork.git
 cd decrypt_clockwork
 uv run --with jupyter jupyter-lab
 ```
