@@ -10,6 +10,6 @@ cd decrypt_clockwork
 uv run --with jupyter jupyter-lab
 ```
 
-Then you can work through the notebooks. Start with [`frequency-analysis`](frequency-analyis.ipynb) if you want to see how I started. Then, for the decrypted journal, check out [`decrypt-this-please`](decrypt-this-please.ipynb).
+Then you can work through the notebooks. Start with [`frequency-analysis`](https://github.com/frank1010111/decrypt_clockwork/blob/main/frequency-analyis.ipynb) if you want to see how I started. Then, for the decrypted journal, check out [`decrypt-this-please`](https://github.com/frank1010111/decrypt_clockwork/blob/main/decrypt-this-please.ipynb).
 
 If you don't have uv installed, first of all, that's very sad. Check [their install docs](https://docs.astral.sh/uv/getting-started/installation/).
